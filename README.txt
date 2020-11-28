@@ -9,7 +9,7 @@ A. PETUNJUK INSTALASI & KONFIGURASI
 	5. Buka browser , lalu ketikan localhost/pertemuan14.
 	6. Lalu pilih file/folder yang akan dibuka.
 	7. Jika ingin membuka admin panel ketikan di browser
-	   localhost/pertemuan14/admin
+	   localhost/(nama-folder)/admin
 
 B. STRUKTUR PROGRAM
 	Di program ini terdapat 8 folder di dalamnya yaitu
